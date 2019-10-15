@@ -26,3 +26,4 @@ class CategoriesController < ApplicationController
     redirect_to category_path(category)
   end
 end
+end
